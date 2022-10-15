@@ -13,7 +13,7 @@ Esse trabalho busca analisar os dados sobre a COVID-19 no Estado de Minas Gerais
 
 ### Índice:
 1. COVID-19.
-  - Objetivo do trabalho.
+   - Objetivo do trabalho.
 2. Coleta de dados.
 3. Importação dos dados.
 4. Tratamento dos dados.
