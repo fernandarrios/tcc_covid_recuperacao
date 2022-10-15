@@ -29,7 +29,7 @@ Esse trabalho busca analisar os dados sobre a COVID-19 no Estado de Minas Gerais
    - Evolução de saúde dos casos.
  6. Preparação do modelo.
  7. Treinamento do modelo.
-   - Decision Tree Classifier.
-   - Random Forest Classifier.
-   - Light Gradient Boosting Machine.
+    - Decision Tree Classifier.
+    - Random Forest Classifier.
+    - Light Gradient Boosting Machine.
  8. Comparação entre os modelos.
