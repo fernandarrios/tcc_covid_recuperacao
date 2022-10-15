@@ -33,4 +33,3 @@ Esse trabalho busca analisar os dados sobre a COVID-19 no Estado de Minas Gerais
    - Random Forest Classifier.
    - Light Gradient Boosting Machine.
  8. Comparação entre os modelos.
-   - 
